@@ -8,5 +8,5 @@ Takes acdc jsonschema as input and autogenerates metadata templates to be used f
 
 ## Templates and Examples
 - [lipidomic_metadata_template.xlsx](lipidomic_metadata_template.xlsx)
-- [lipidomic_metadata_template_example.xlsx](lipidomic_metadata_template.xlsx)
+- [lipidomic_metadata_template_example.xlsx](lipidomic_metadata_template_example.xlsx)
 
